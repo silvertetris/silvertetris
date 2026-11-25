@@ -2,7 +2,7 @@
 
 # 이성권 · Seonggwon Lee
 
-🔧 기계공학 (주전공) &nbsp;|&nbsp; 💻 컴퓨터SW (복수전공)
+🔧 Mechanical Engineering (Major) &nbsp;|&nbsp; 💻 Computer Software (Double Major)
 
 </div>
 
